@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asynchronous Operations", "Asynchronous Operations\Asynchronous Operations.csproj", "{54AF6E52-7E07-45CD-9E8A-AECA428D3D48}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CancellationDemo", "CancellationDemo\CancellationDemo.csproj", "{5A20FC99-C08B-4F2F-AC8C-ED245911D176}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tasks", "Tasks\Tasks.csproj", "{611E60A1-BC24-4F6A-B659-DF61EC8B36F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskShedulerTest", "TaskShedulerTest\TaskShedulerTest.csproj", "{547F9F13-8428-4DEB-82ED-03A9C92C6641}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54AF6E52-7E07-45CD-9E8A-AECA428D3D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54AF6E52-7E07-45CD-9E8A-AECA428D3D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54AF6E52-7E07-45CD-9E8A-AECA428D3D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54AF6E52-7E07-45CD-9E8A-AECA428D3D48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A20FC99-C08B-4F2F-AC8C-ED245911D176}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A20FC99-C08B-4F2F-AC8C-ED245911D176}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A20FC99-C08B-4F2F-AC8C-ED245911D176}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A20FC99-C08B-4F2F-AC8C-ED245911D176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611E60A1-BC24-4F6A-B659-DF61EC8B36F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611E60A1-BC24-4F6A-B659-DF61EC8B36F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611E60A1-BC24-4F6A-B659-DF61EC8B36F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611E60A1-BC24-4F6A-B659-DF61EC8B36F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{547F9F13-8428-4DEB-82ED-03A9C92C6641}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{547F9F13-8428-4DEB-82ED-03A9C92C6641}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{547F9F13-8428-4DEB-82ED-03A9C92C6641}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{547F9F13-8428-4DEB-82ED-03A9C92C6641}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
